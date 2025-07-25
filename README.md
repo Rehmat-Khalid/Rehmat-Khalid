@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Rehmat Khalid
 
-<!--
-**Rehmat-Khalid/Rehmat-Khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🤖 Aspiring AI & Cloud Engineer  
+🎯 Dedicated to crafting modern, efficient, and user-centric web applications  
+🏛️ Certified IT Trainee — Governor House Technology Program  
+📊 Proficient in MS Office & Digital Productivity  
+🌟 Determined to become a leading IT Professional — InshaAllah
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming & Development
+- HTML, CSS, JavaScript, TypeScript  
+- React.js, Next.js  
+- Python (Beginner to Intermediate)  
+- Git & GitHub
+
+### 🎨 Design & Creativity
+- CorelDRAW, Adobe Photoshop, Canva
+
+### 🧠 Productivity & Tools
+- Microsoft Word, Excel, PowerPoint  
+- Visual Studio Code, Figma (Basic)
+
+## 📫 Let’s Connect
+
+- 📧 Email: [rehmatkhalid11@gmail.com](mailto:rehmatkhalid11@gmail.com)  
+- 💼 LinkedIn: [Rehmat Khalid](https://www.linkedin.com/in/rehmatkhalid)  
+- 💻 GitHub: [Rehmat-Khalid](https://github.com/Rehmat-Khalid)
+
+✨ *"Allah’s blessings Alhamdulliah , sincere efforts, and continuous learning — I believe in building a bright and successful future, InshaAllah."*.
