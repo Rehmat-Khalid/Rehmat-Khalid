@@ -1,30 +1,47 @@
-# 👋 Hello, I'm Rehmat Khalid
+# Hi, I'm Rehmat Khalid 👋  
 
-💻 Full Stack Developer | 🤖 Aspiring AI & Cloud Engineer  
-🎯 Dedicated to crafting modern, efficient, and user-centric web applications  
-🏛️ Certified IT Trainee — Governor House Technology Program  
-📊 Proficient in MS Office & Digital Productivity  
-🌟 Determined to become a leading IT Professional — InshaAllah
+🚀 **Full Stack Developer | Graphic Designer | MS Office Expert | AI Enthusiast**  
+🌟 Trained at **Governor House IT Program** – Alhamdulillah 🌟  
+💡 Future Top IT Expert – InshaAllah  
 
-## 🔧 Technical Skills
+Welcome to my GitHub profile!  
+I’m passionate about **building modern web applications**, **exploring AI**, and creating **impactful digital solutions**.  
 
-### 💻 Programming & Development
-- HTML, CSS, JavaScript, TypeScript  
-- React.js, Next.js  
-- Python (Beginner to Intermediate)  
-- Git & GitHub
+---
 
-### 🎨 Design & Creativity
-- CorelDRAW, Adobe Photoshop, Canva
+## 🔥 About Me  
+- 🌐 **Full Stack Developer** (Next.js, Tailwind CSS, TypeScript, JavaScript, HTML, CSS)  
+- 🐍 **Python & AI Enthusiast** (Streamlit, FastAPI, Automation, AI Tools)  
+- 🎨 **Graphic Designer** (Photoshop, Canva, Illustrator)  
+- 💻 **MS Office Expert** (Excel, Word, PowerPoint)  
+- 🎓 Proudly trained at **Governor House IT Program, Karachi** (Alhamdulillah ✅)  
+- 🌟 Vision: To become a **Top IT Expert** in the bright future – InshaAllah  
 
-### 🧠 Productivity & Tools
-- Microsoft Word, Excel, PowerPoint  
-- Visual Studio Code, Figma (Basic)
+---
 
-## 📫 Let’s Connect
+## 🛠️ Skills & Technologies  
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS  
+- **Backend:** Python (Streamlit, FastAPI), Node.js  
+- **Databases:** MongoDB, SQL (basic)  
+- **Design:** Photoshop, Canva, Illustrator  
+- **Office Tools:** MS Excel, Word, PowerPoint  
+- **AI Tools:** Python AI libraries, ChatGPT, Automation  
 
+---
+
+## 📌 Featured Projects  
+🔹 [Portfolio Website](#) – Personal portfolio built with **Next.js + Tailwind CSS**  
+🔹 [Dynamic Resume Generator](#) – AI-powered resume builder  
+🔹 [Password Strength Meter](#) – Python + Streamlit project  
+🔹 [Unit Converter](#) – Python project with Streamlit UI  
+
+---
+
+## 🌍 Connect With Me  
+- 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/rehmatkhalid)  
 - 📧 Email: [rehmatkhalid11@gmail.com](mailto:rehmatkhalid11@gmail.com)  
-- 💼 LinkedIn: [Rehmat Khalid](https://www.linkedin.com/in/rehmatkhalid)  
-- 💻 GitHub: [Rehmat-Khalid](https://github.com/Rehmat-Khalid)
+- 🐙 GitHub: [Rehmat-Khalid](https://github.com/Rehmat-Khalid)  
 
-✨ *"Allah’s blessings Alhamdulliah , sincere efforts, and continuous learning — I believe in building a bright and successful future, InshaAllah."*.
+---
+
+⭐️ *Follow me for projects on Full Stack Development, AI, and future IT innovations.*  
