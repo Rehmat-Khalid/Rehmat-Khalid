@@ -28,12 +28,13 @@ I’m passionate about **building modern web applications**, **exploring AI**, a
 - **AI Tools:** Python AI libraries, ChatGPT, Automation  
 
 ---
-
+ 
 ## 📌 Featured Projects  
-🔹 [Portfolio Website](#) – Personal portfolio built with **Next.js + Tailwind CSS**  
-🔹 [Dynamic Resume Generator](#) – AI-powered resume builder  
-🔹 [Password Strength Meter](#) – Python + Streamlit project  
-🔹 [Unit Converter](#) – Python project with Streamlit UI  
+🔹 [Portfolio Website](https://github.com/Rehmat-Khalid/portfolio) – Personal portfolio built with **Next.js + Tailwind CSS**  
+🔹 [Dynamic Resume Generator](https://github.com/Rehmat-Khalid/dynamic-resume-generator) – AI-powered resume builder  
+🔹 [Password Strength Meter](https://github.com/Rehmat-Khalid/password-strength-meter) – Python + Streamlit project  
+🔹 [Unit Converter](https://github.com/Rehmat-Khalid/unit-converter) – Python project with Streamlit UI  
+
 
 ---
 
