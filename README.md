@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚡ REHMAT KHALID ⚡
+# ⚫ REHMAT KHALID ⚫
 
-### Full Stack Developer • AI Engineer • Graphic Designer • Data Entry Specialist • IT Expert
+### Full Stack Developer • AI Engineer • UI/UX Designer • IT Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+Automation+Specialist;Graphic+Designer+Creative+Technologist;Data+Entry+IT+Expert;Building+Scalable+Real+World+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI+Automation+Engineer;UI%2FUX+Designer;System+Builder+%26+Problem+Solver" />
 
-<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=PROFILE%20VIEWS&color=0D1117&labelColor=000000&style=for-the-badge&logo=github&logoColor=00F7FF" />
+<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=PROFILE%20VIEWS&color=0D0D0D&labelColor=000000&style=for-the-badge" />
 
 </div>
 
@@ -14,44 +14,41 @@
 
 ## 👨‍💻 ABOUT ME
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+I am a **multi-disciplinary software engineer** focused on building **scalable, production-ready systems** with clean architecture, automation, and modern UI/UX.
 
-I am a **multi-skilled IT professional** focused on building **production-level scalable systems** with clean architecture, automation, and modern UI/UX engineering.
-
-### 🎯 CORE IDENTITY
-- Full Stack Developer (React / Next.js / Node.js)
-- AI Engineer (Automation & Intelligent Systems)
-- Graphic Designer (UI/UX & Branding Systems)
-- Data Entry & IT Operations Specialist
-- Problem Solver & System Builder
+- Full Stack Development (React / Next.js / Node.js)
+- AI & Automation Engineering
+- UI/UX & Design Systems
+- Data & IT Operations
+- Performance-focused problem solving
 
 ---
 
 ## ⚡ CORE EXPERTISE
 
-### 🌐 FULL STACK DEVELOPMENT
+### 🌐 FULL STACK
 - React / Next.js Applications  
 - REST APIs & Backend Systems  
-- Database Architecture  
-- Responsive UI Systems  
+- Database Design & Optimization  
+- Responsive UI Architecture  
 
-### 🤖 AI ENGINEERING
-- AI Automation Systems  
-- Agentic AI Concepts  
-- Prompt Engineering  
-- Intelligent Applications  
+### 🤖 AI & AUTOMATION
+- AI-powered applications  
+- Workflow automation systems  
+- Prompt engineering  
+- Intelligent tools & agents  
 
 ### 🎨 DESIGN SYSTEMS
-- UI/UX Design Systems  
-- Branding & Identity  
-- Figma to Code Conversion  
-- Creative Visual Content  
+- Modern UI/UX design  
+- Clean interface systems  
+- Figma to production code  
+- Branding consistency  
 
-### 📊 DATA & IT OPERATIONS
-- Data Entry Systems  
-- Excel Automation  
-- Documentation Systems  
-- Office Productivity Tools  
+### 📊 DATA & IT
+- Data management systems  
+- Excel / automation workflows  
+- Documentation systems  
+- IT support & optimization  
 
 ---
 
@@ -65,36 +62,27 @@ I am a **multi-skilled IT professional** focused on building **production-level 
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECTS
 
-### 🔹 AI Resume Generator
-Smart AI system with dynamic resume creation.
-
-### 🔹 Password Security Analyzer
-Python-based password strength analyzer tool.
-
-### 🔹 Unit Converter App
-Fast conversion tool built with Python + Streamlit.
-
-### 🔹 Portfolio Website
-Modern dark-themed developer portfolio using Next.js.
-
-### 🔹 Figma to Code Projects
-Pixel-perfect UI → production-ready code system.
+- **AI Resume Generator** — Smart resume builder using AI logic  
+- **Password Analyzer** — Security strength checker in Python  
+- **Unit Converter Tool** — Fast conversion utility (Python/Streamlit)  
+- **Developer Portfolio** — Dark-themed Next.js portfolio system  
+- **UI Conversion System** — Figma to production-ready code workflow  
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehmat-Khalid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehmat-Khalid&show_icons=true&theme=github_dark&hide_border=true&border_radius=12"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmat-Khalid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmat-Khalid&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehmat-Khalid&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehmat-Khalid&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -104,56 +92,34 @@ Pixel-perfect UI → production-ready code system.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rehmat-Khalid&theme=onedark&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rehmat-Khalid&theme=darkhub&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-## 🌍 CONNECT WITH ME
+## 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Rehmat-Khalid">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rehmatkhalid">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rehmatkhalid11@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4D6D"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🎯 CURRENT FOCUS
-
-- Advanced Full Stack Development  
-- AI & Automation Engineering  
-- SaaS Application Development  
-- Open Source Contributions  
-- Real World Problem Solving  
-
----
-
 <div align="center">
 
-## ⚡ CODE • DESIGN • BUILD • SCALE ⚡
-
-### “Consistency + Discipline + Skills = Real Engineering Power”
-
-### 🚀 Growing as a Global IT Engineer — InshaAllah
-
-</div>
-
----
-
-<div align="center">
-
-⭐ THANK YOU FOR VISITING ⭐
+## ⚫ BUILD • SCALE • AUTOMATE ⚫
 
 </div>
