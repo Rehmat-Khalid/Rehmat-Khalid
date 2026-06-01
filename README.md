@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+Automation+Specialist;Graphic+Designer+Creative+Technologist;Data+Entry+IT+Expert;Building+Scalable+Real+World+Systems" />
 
-<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=PROFILE%20VIEWS&color=0D1117&labelColor=000000&style=for-the-badge&logo=github&logoColor=00F7FF" />
 
 </div>
 
@@ -16,12 +16,12 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I am a **multi-skilled IT professional** focused on building **production-level digital systems** using clean architecture, automation, and modern engineering practices.
+I am a **multi-skilled IT professional** focused on building **production-level scalable systems** with clean architecture, automation, and modern UI/UX engineering.
 
 ### 🎯 CORE IDENTITY
 - Full Stack Developer (React / Next.js / Node.js)
 - AI Engineer (Automation & Intelligent Systems)
-- Graphic Designer (UI/UX & Branding)
+- Graphic Designer (UI/UX & Branding Systems)
 - Data Entry & IT Operations Specialist
 - Problem Solver & System Builder
 
@@ -68,19 +68,19 @@ I am a **multi-skilled IT professional** focused on building **production-level 
 ## 🚀 FEATURED PROJECTS
 
 ### 🔹 AI Resume Generator
-Smart AI resume system with dynamic templates.
+Smart AI system with dynamic resume creation.
 
 ### 🔹 Password Security Analyzer
-Python tool for password analysis.
+Python-based password strength analyzer tool.
 
 ### 🔹 Unit Converter App
-Fast conversion app built with Python & Streamlit.
+Fast conversion tool built with Python + Streamlit.
 
 ### 🔹 Portfolio Website
-Modern developer portfolio using Next.js.
+Modern dark-themed developer portfolio using Next.js.
 
 ### 🔹 Figma to Code Projects
-Pixel-perfect UI conversion system.
+Pixel-perfect UI → production-ready code system.
 
 ---
 
@@ -88,7 +88,7 @@ Pixel-perfect UI conversion system.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehmat-Khalid&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehmat-Khalid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmat-Khalid&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -100,7 +100,7 @@ Pixel-perfect UI conversion system.
 
 ---
 
-## 🏆 ACHIEVEMENTS (FIXED)
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -115,15 +115,15 @@ Pixel-perfect UI conversion system.
 <div align="center">
 
 <a href="https://github.com/Rehmat-Khalid">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rehmatkhalid">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 <a href="mailto:rehmatkhalid11@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF4D6D"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4D6D"/>
 </a>
 
 </div>
