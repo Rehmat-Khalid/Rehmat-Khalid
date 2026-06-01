@@ -2,53 +2,57 @@
 
 # ⚫ REHMAT KHALID ⚫
 
-### FULL STACK DEVELOPER • AI ENGINEER • DATA ENTRY SPECIALIST • GRAPHIC DESIGNER • IT EXPERT
+### FULL STACK DEVELOPER • AI ENGINEER • DATA SPECIALIST • UI/UX DESIGNER • IT EXPERT
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Automation+Engineer;System+Architect;Clean+Code+Builder;Scalable+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;AI+Automation+Engineer;Full+Stack+Developer;Clean+Architecture+Mindset;Production+Ready+Engineering" />
 
-<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=SYSTEM%20ACCESS&color=000000&labelColor=0d0d0d&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=SYSTEM%20ACCESS&color=000000&labelColor=0d0d0d&style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-## ⚫ ABOUT ME
+## ⚫ SYSTEM PROFILE
 
-I am a **professional Full Stack Developer, AI Engineer, and IT Specialist** focused on building **secure, scalable, and production-grade systems**.
+I am a **Full Stack Developer & AI Engineer** focused on building **secure, scalable, and production-grade systems**.
 
-I specialize in **clean architecture, automation systems, and real-world engineering solutions** that solve practical problems with efficiency.
+My approach is based on:
+- Clean architecture
+- Performance optimization
+- Real-world automation
+- Modern UI/UX engineering
 
 ---
 
-## ⚫ CORE EXPERTISE
+## ⚫ CORE ENGINEERING STACK
 
 ### 🌐 FULL STACK DEVELOPMENT
 - React / Next.js Applications  
 - Node.js Backend Systems  
 - REST API Architecture  
 - Database Design (SQL / NoSQL)  
-- Scalable System Engineering  
+- Scalable System Development  
 
-### 🤖 AI ENGINEERING & AUTOMATION
-- AI-powered systems  
-- Automation workflows  
-- Intelligent application design  
-- Prompt engineering  
+### 🤖 AI & AUTOMATION
+- AI-powered applications  
+- Workflow automation systems  
+- Intelligent assistants  
 - API integrations  
+- Prompt engineering systems  
 
-### 🎨 UI/UX & GRAPHIC DESIGN
+### 🎨 UI/UX DESIGN
 - Minimal dark UI systems  
-- Clean interface design  
-- Figma to production conversion  
-- Branding & identity systems  
-- UX optimization  
+- Clean interface architecture  
+- Figma to production workflow  
+- Branding systems  
+- User experience optimization  
 
 ### ⚙️ IT & DATA SYSTEMS
-- IT operations & troubleshooting  
 - Data entry systems  
-- Excel automation workflows  
-- Technical problem solving  
+- IT support & troubleshooting  
+- Excel automation  
 - System optimization  
+- Technical problem solving  
 
 ---
 
@@ -62,13 +66,13 @@ I specialize in **clean architecture, automation systems, and real-world enginee
 
 ---
 
-## 🚀 PROJECTS
+## 🚀 PROJECT PORTFOLIO
 
-- ⚫ AI Resume Generator — Intelligent CV automation system  
-- ⚫ Password Analyzer — Security strength checker  
+- ⚫ AI Resume Generator — Smart CV automation system  
+- ⚫ Password Strength Analyzer — Security tool in Python  
 - ⚫ Unit Converter App — Fast utility system  
-- ⚫ Portfolio Website — Dark professional engineering UI  
-- ⚫ UI Automation System — Design-to-code workflow  
+- ⚫ Portfolio Website — Dark professional developer UI  
+- ⚫ UI Automation System — Design-to-code pipeline  
 
 ---
 
@@ -98,7 +102,7 @@ I specialize in **clean architecture, automation systems, and real-world enginee
 
 ---
 
-## ⚫ CONNECT
+## ⚫ CONNECT SYSTEM
 
 <div align="center">
 
@@ -118,14 +122,6 @@ I specialize in **clean architecture, automation systems, and real-world enginee
 
 ---
 
-## ⚫ FINAL SYSTEM STATUS
+## ⚫ FINAL STATUS
 
 ### BUILD • SECURE • SCALE • DEPLOY
-
----
-
-<div align="center">
-
-⭐ THANK YOU FOR VISITING ⭐
-
-</div>
