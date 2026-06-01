@@ -1,67 +1,172 @@
-<h1 align="center">Hi 👋, I'm Rehmat Khalid</h1>  
-<h3 align="center">🚀 Full Stack Developer | MS Office Expert | Graphic Designer | AI Enthusiast | Future Top IT Expert</h3>  
+<div align="center">
 
-<p align="center">
-  🌟 Trained at the prestigious <b>Governor House IT Program</b>  
-  <br>
-  💻 Passionate about Web Development, Artificial Intelligence, and Creative Design  
-  <br>
-  🎯 Goal: To become one of the <b>Top IT Experts</b> in the world, InshaAllah
-</p>
+# ⚡ REHMAT KHALID ⚡
 
----
+### Full Stack Developer • AI Engineer • Graphic Designer • Data Entry Specialist • IT Expert
 
-## 🔥 About Me  
-- ✅ Full Stack Developer (Frontend + Backend)  
-- ✅ MS Office Expert (Word, Excel, PowerPoint, Data Handling)  
-- ✅ Graphic Designer (Creative & Professional Designs)  
-- ✅ AI Explorer (Python, Agentic AI, Machine Learning Basics)  
-- ✅ **Governor House IT Course Graduate (Alhamdulillah)**  
-- 🌟 Strong believer in: **Hard Work + Faith = Success**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+%7C+Automation+Builder;Graphic+Designer+%7C+Creative+Technologist;Data+Entry+%26+IT+Solutions+Specialist;Building+Real+World+Scalable+Systems" />
+
+<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠 Skills & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/AI-Agentic%20AI-red?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Office-green?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graphic%20Design-purple?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-</p>
+## 👨‍💻 PROFESSIONAL PROFILE
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+I am a **Multi-Skilled IT Professional** specializing in **Full Stack Development, Artificial Intelligence, Graphic Design, Data Entry Operations, and IT Solutions**.
+
+My focus is on building **modern, scalable, and real-world digital systems** that combine clean code, automation, and user-focused design.
+
+### 🎯 Core Identity
+
+* Full Stack Developer (Frontend + Backend Systems)
+* AI Engineer (Automation & Intelligent Applications)
+* Graphic Designer (Modern Digital Creativity)
+* Data Entry & IT Operations Specialist
+* Problem Solver & Technology Builder
 
 ---
 
-## 📂 Featured Projects  
-- 🔹 **Dynamic Resume Generator**  
-- 🔹 **Unit Converter (Python + Streamlit)**  
-- 🔹 **Password Strength Meter (Python + Streamlit)**  
-- 🔹 **Personal Portfolio (Next.js + Tailwind CSS)**  
-- 🔹 **Pixel-Perfect Figma Design to Code Project**  
+## ⚡ CORE EXPERTISE
+
+### 🌐 Full Stack Development
+
+* Modern Web Applications (React / Next.js)
+* Backend APIs & Server-side Logic
+* Database Design & Integration
+* Responsive UI/UX Development
+* Performance Optimization
+
+### 🤖 Artificial Intelligence
+
+* AI Automation Systems
+* Agentic AI Concepts
+* Prompt Engineering
+* Smart Application Development
+
+### 🎨 Graphic Design
+
+* UI/UX Interface Design
+* Branding & Identity Design
+* Social Media Creatives
+* Visual Content Development
+
+### 📊 Data Entry & IT Operations
+
+* Professional Data Management
+* Excel & Spreadsheet Systems
+* Documentation & Reporting
+* Office Automation Tasks
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehmat-Khalid&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmat-Khalid&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+## 🛠 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mongodb,mysql,firebase,git,github,vscode,figma" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/rehmatkhalid"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rehmatkhalid11@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Rehmat-Khalid"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 🚀 FEATURED PROJECTS
+
+### 🔹 AI Resume Generator System
+
+Smart dynamic resume builder with export-ready templates.
+
+### 🔹 Password Security Analyzer
+
+Python-based security tool for analyzing password strength.
+
+### 🔹 Unit Converter Application
+
+Fast and responsive conversion tool built using Python & Streamlit.
+
+### 🔹 Portfolio Website
+
+Modern developer portfolio using Next.js and Tailwind CSS.
+
+### 🔹 Figma to Code Projects
+
+Pixel-perfect UI conversion into real web applications.
 
 ---
 
-<h3 align="center">✨ "InshaAllah, I will achieve greatness in IT and become a Top Expert." ✨</h3>
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehmat-Khalid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmat-Khalid&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehmat-Khalid&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rehmat-Khalid&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+## 🌍 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Rehmat-Khalid">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rehmatkhalid">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rehmatkhalid11@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF3B5C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+* Advanced Full Stack Web Development
+* AI & Automation Systems Engineering
+* Professional Graphic Design Systems
+* Data Entry & IT Operations Excellence
+* Real-World Problem Solving Through Technology
+
+---
+
+<div align="center">
+
+## ⚡ CODE • DESIGN • AUTOMATE • BUILD ⚡
+
+### “Skills, consistency, and discipline create real IT professionals.”
+
+### 🚀 Growing as a Global Multi-Skilled IT Expert — InshaAllah
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thank you for visiting my GitHub profile ⭐
+
+</div>
