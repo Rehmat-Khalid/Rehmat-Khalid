@@ -1,69 +1,61 @@
 <div align="center">
 
-# ⚡ <span style="color:#00F7FF;">REHMAT KHALID</span> ⚡
+# ⚡ REHMAT KHALID ⚡
 
-### <span style="color:#7C3AED;">Full Stack Developer • AI Engineer • Graphic Designer • Data Entry Specialist • IT Expert</span>
+### Full Stack Developer • AI Engineer • Graphic Designer • Data Entry Specialist • IT Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+%7C+Automation+Specialist;Graphic+Designer+%7C+Creative+Mind;Data+Entry+%26+IT+Expert;Building+Modern+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+%7C+Automation+Builder;Graphic+Designer+%7C+Creative+Technologist;Data+Entry+%7C+IT+Solutions+Expert;Building+Scalable+Real+World+Systems" />
 
-<br>
-
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-00F7FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-7C3AED?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Rehmat-Khalid&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 <span style="color:#00F7FF;">ABOUT ME</span>
+## 👨‍💻 ABOUT ME
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I am a **multi-skilled IT professional** focused on building **modern, scalable, production-level digital solutions** with clean UI, strong backend systems, and intelligent automation.
+I am a **multi-skilled IT professional** focused on building **modern, scalable, production-grade digital systems** using clean architecture, automation, and modern UI/UX principles.
 
-### 🎯 Identity
-
-* Full Stack Developer (React / Next.js / Node.js)
-* AI Engineer (Automation & Smart Systems)
-* Graphic Designer (Modern Digital Creativity)
-* Data Entry & IT Operations Specialist
-* Problem Solver & System Builder
-
----
-
-## ⚡ <span style="color:#00F7FF;">CORE EXPERTISE</span>
-
-### 🌐 Full Stack Development (🔵 Blue Zone)
-
-* React / Next.js Applications
-* REST APIs & Backend Systems
-* Database Architecture
-* Responsive UI/UX Systems
-
-### 🤖 AI ENGINEERING (🟣 Purple Zone)
-
-* AI Automation Workflows
-* Agentic AI Concepts
-* Prompt Engineering
-* Intelligent Applications
-
-### 🎨 DESIGN SYSTEMS (🔷 Cyan Zone)
-
-* UI/UX Design Systems
-* Branding & Identity
-* Figma to Code Conversion
-* Creative Visual Content
-
-### 📊 DATA & IT (⚫ Black Ops Zone)
-
-* Data Entry Systems
-* Excel Automation
-* Documentation Systems
-* Office Productivity Tools
+### 🎯 CORE IDENTITY
+- Full Stack Developer (React / Next.js / Node.js)
+- AI Engineer (Automation & Intelligent Systems)
+- Graphic Designer (Modern UI/UX & Branding)
+- Data Entry & IT Operations Specialist
+- Problem Solver & System Builder
 
 ---
 
-## 🛠 <span style="color:#00F7FF;">TECH STACK</span>
+## ⚡ CORE EXPERTISE
+
+### 🌐 FULL STACK DEVELOPMENT (CYAN ZONE)
+- React / Next.js Applications  
+- REST APIs & Backend Systems  
+- Database Architecture & Integration  
+- Responsive UI/UX Development  
+
+### 🤖 AI ENGINEERING (NEON PURPLE ZONE)
+- AI Automation Systems  
+- Agentic AI Concepts  
+- Prompt Engineering  
+- Smart Applications  
+
+### 🎨 DESIGN SYSTEMS (BLUE CYBER ZONE)
+- UI/UX Design Systems  
+- Branding & Identity Design  
+- Figma to Code Conversion  
+- Creative Visual Content  
+
+### 📊 DATA & IT OPERATIONS (DARK ZONE)
+- Data Entry Systems  
+- Excel Automation  
+- Documentation Systems  
+- Office Productivity Tools  
+
+---
+
+## 🛠 TECH STACK
 
 <div align="center">
 
@@ -76,24 +68,19 @@ I am a **multi-skilled IT professional** focused on building **modern, scalable,
 ## 🚀 FEATURED PROJECTS
 
 ### 🔹 AI Resume Generator
-
-Smart AI-based resume system with dynamic templates.
+Smart AI-powered resume system with dynamic templates.
 
 ### 🔹 Password Security Analyzer
-
-Python tool for security strength analysis.
+Python tool for password strength & security analysis.
 
 ### 🔹 Unit Converter App
-
-Fast conversion system built with Python + Streamlit.
+Fast conversion tool using Python & Streamlit.
 
 ### 🔹 Portfolio Website
-
-Modern dark-themed developer portfolio (Next.js).
+Modern developer portfolio built with Next.js.
 
 ### 🔹 Figma to Production UI
-
-Pixel-perfect design implementation system.
+Pixel-perfect UI conversion into real applications.
 
 ---
 
@@ -123,7 +110,7 @@ Pixel-perfect design implementation system.
 
 ---
 
-## 🌐 CONNECT WITH ME (NEON STYLE)
+## 🌍 CONNECT WITH ME
 
 <div align="center">
 
@@ -136,7 +123,7 @@ Pixel-perfect design implementation system.
 </a>
 
 <a href="mailto:rehmatkhalid11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -145,19 +132,19 @@ Pixel-perfect design implementation system.
 
 ## 🎯 CURRENT FOCUS
 
-* Advanced Full Stack Engineering (MERN + Next.js)
-* AI Automation & Intelligent Systems
-* SaaS Application Development
-* Open Source Contributions
-* Real World Problem Solving
+- Advanced Full Stack Development  
+- AI & Automation Engineering  
+- SaaS Application Development  
+- Open Source Contributions  
+- Real World Problem Solving  
 
 ---
 
 <div align="center">
 
-## ⚡ CODE • DESIGN • BUILD • AUTOMATE ⚡
+## ⚡ CODE • DESIGN • BUILD • SCALE ⚡
 
-### <span style="color:#00F7FF;">“Consistency + Skills + Discipline = Real Engineering Power”</span>
+### “Consistency + Discipline + Skills = Real Engineering Power”
 
 ### 🚀 Growing as a Global Multi-Skilled IT Engineer — InshaAllah
 
