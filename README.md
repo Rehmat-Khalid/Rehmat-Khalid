@@ -1,65 +1,65 @@
 <div align="center">
 
-# <span style="color:#00F7FF;">⚡ REHMAT KHALID ⚡</span>
+# ⚡ <span style="color:#00F7FF;">REHMAT KHALID</span> ⚡
 
-### <span style="color:#A78BFA;">Full Stack Developer • AI Engineer • Graphic Designer • Data Entry Specialist • IT Expert</span>
+### <span style="color:#7C3AED;">Full Stack Developer • AI Engineer • Graphic Designer • Data Entry Specialist • IT Expert</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+%7C+Automation+Builder;Graphic+Designer+%7C+Creative+Technologist;Data+Entry+%26+IT+Solutions+Specialist;Building+Scalable+Real+World+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;AI+Engineer+%7C+Automation+Specialist;Graphic+Designer+%7C+Creative+Mind;Data+Entry+%26+IT+Expert;Building+Modern+Scalable+Systems" />
 
 <br>
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS-00F7FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-7C3AED?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 ---
 
-## 🧠 <span style="color:#00F7FF;">PROFESSIONAL PROFILE</span>
+## 🧠 <span style="color:#00F7FF;">ABOUT ME</span>
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I am a **multi-skilled IT professional** focused on building **modern, scalable, and production-level digital systems** using clean architecture, automation, and modern UI/UX design.
+I am a **multi-skilled IT professional** focused on building **modern, scalable, production-level digital solutions** with clean UI, strong backend systems, and intelligent automation.
 
-### 🎯 Core Identity
+### 🎯 Identity
 
-* Full Stack Developer (Frontend + Backend Systems)
-* AI Engineer (Automation & Intelligent Applications)
+* Full Stack Developer (React / Next.js / Node.js)
+* AI Engineer (Automation & Smart Systems)
 * Graphic Designer (Modern Digital Creativity)
 * Data Entry & IT Operations Specialist
-* Problem Solver & Technology Builder
+* Problem Solver & System Builder
 
 ---
 
 ## ⚡ <span style="color:#00F7FF;">CORE EXPERTISE</span>
 
-### 🌐 Full Stack Development
+### 🌐 Full Stack Development (🔵 Blue Zone)
 
-* Modern Web Applications (React / Next.js)
-* Backend APIs & Server Architecture
-* Database Design & Optimization
+* React / Next.js Applications
+* REST APIs & Backend Systems
+* Database Architecture
 * Responsive UI/UX Systems
-* Performance Optimization
 
-### 🤖 Artificial Intelligence
+### 🤖 AI ENGINEERING (🟣 Purple Zone)
 
-* AI Automation Systems
+* AI Automation Workflows
 * Agentic AI Concepts
 * Prompt Engineering
-* Smart Application Development
+* Intelligent Applications
 
-### 🎨 Graphic Design
+### 🎨 DESIGN SYSTEMS (🔷 Cyan Zone)
 
-* UI/UX Interface Design
-* Branding & Identity Systems
-* Social Media Creatives
-* Visual Content Design
+* UI/UX Design Systems
+* Branding & Identity
+* Figma to Code Conversion
+* Creative Visual Content
 
-### 📊 Data & IT Operations
+### 📊 DATA & IT (⚫ Black Ops Zone)
 
-* Data Management Systems
-* Excel & Spreadsheet Automation
-* Documentation & Reporting
-* Office Productivity Systems
+* Data Entry Systems
+* Excel Automation
+* Documentation Systems
+* Office Productivity Tools
 
 ---
 
@@ -75,25 +75,25 @@ I am a **multi-skilled IT professional** focused on building **modern, scalable,
 
 ## 🚀 FEATURED PROJECTS
 
-### 🔹 AI Resume Generator System
+### 🔹 AI Resume Generator
 
-Smart resume builder with dynamic templates & export system.
+Smart AI-based resume system with dynamic templates.
 
 ### 🔹 Password Security Analyzer
 
-Python-based tool for password strength & security analysis.
+Python tool for security strength analysis.
 
-### 🔹 Unit Converter Application
+### 🔹 Unit Converter App
 
-Fast and responsive conversion tool built with Python & Streamlit.
+Fast conversion system built with Python + Streamlit.
 
 ### 🔹 Portfolio Website
 
-Modern developer portfolio using Next.js + Tailwind CSS.
+Modern dark-themed developer portfolio (Next.js).
 
-### 🔹 Figma to Code Projects
+### 🔹 Figma to Production UI
 
-Pixel-perfect UI conversion into production-ready websites.
+Pixel-perfect design implementation system.
 
 ---
 
@@ -117,26 +117,26 @@ Pixel-perfect UI conversion into production-ready websites.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rehmat-Khalid&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rehmat-Khalid&theme=matrix&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-## 🌍 CONNECT WITH ME
+## 🌐 CONNECT WITH ME (NEON STYLE)
 
 <div align="center">
 
 <a href="https://github.com/Rehmat-Khalid">
-<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rehmatkhalid">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rehmatkhalid11@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -145,9 +145,9 @@ Pixel-perfect UI conversion into production-ready websites.
 
 ## 🎯 CURRENT FOCUS
 
-* Advanced Full Stack Engineering
-* AI & Automation Systems Development
-* Scalable SaaS Applications
+* Advanced Full Stack Engineering (MERN + Next.js)
+* AI Automation & Intelligent Systems
+* SaaS Application Development
 * Open Source Contributions
 * Real World Problem Solving
 
@@ -155,9 +155,9 @@ Pixel-perfect UI conversion into production-ready websites.
 
 <div align="center">
 
-## ⚡ CODE • DESIGN • AUTOMATE • BUILD ⚡
+## ⚡ CODE • DESIGN • BUILD • AUTOMATE ⚡
 
-### “Consistency + Skills + Discipline = Real IT Success”
+### <span style="color:#00F7FF;">“Consistency + Skills + Discipline = Real Engineering Power”</span>
 
 ### 🚀 Growing as a Global Multi-Skilled IT Engineer — InshaAllah
 
